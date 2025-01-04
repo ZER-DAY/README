@@ -2,7 +2,7 @@
 
 <h2>Studied at:</h2>
 
-- <a href="https://www.vstu.ru/">VSTU</a> (Volgograd State Technical University) [Bachelor’s Degree Program: "software engineering
+- <a href="https://www.vstu.ru/">VSTU</a> (Volgograd State Technical University) [Bachelor’s Degree Program: "software engineering"]
 
 
 <h2>What do I want to work as?</h2>
