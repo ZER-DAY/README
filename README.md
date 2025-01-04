@@ -2,8 +2,7 @@
 
 <h2>Studied at:</h2>
 
-- <a href="https://www.vstu.ru/">VSTU</a> (Volgograd State Technical University) [Bachelor’s Degree Program: <a href="https://abiturient.tusur.ru/ru/napravleniya-podgotovki/ochnaya-forma-obucheniya/2022-10-03-01-informatsionnaya-bezopasnost-fulltime">"Information Security"</a>]
-- <a href="https://mai.ru/">MAI</a> (Moscow Aviation Institute) [Master's Degree Program: <a href="https://mai.ru/itmai/pvs/">"Design of high-load Internet services"</a>]
+- <a href="https://www.vstu.ru/">VSTU</a> (Volgograd State Technical University) [Bachelor’s Degree Program: "software engineering
 
 
 <h2>What do I want to work as?</h2>
