@@ -1,8 +1,8 @@
-<h1 align="center">Hi there, I'm Niemisto Vladimir, better known as Nikel <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+<h1 align="center">Hi there, I'm Bahaa <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 
 <h2>Studied at:</h2>
 
-- <a href="https://tusur.ru/">TUSUR</a> (Tomsk State University of Control Systems and Radioelectronics) [Bachelor’s Degree Program: <a href="https://abiturient.tusur.ru/ru/napravleniya-podgotovki/ochnaya-forma-obucheniya/2022-10-03-01-informatsionnaya-bezopasnost-fulltime">"Information Security"</a>]
+- <a href="https://www.vstu.ru/">VSTU</a> (Volgograd State Technical University) [Bachelor’s Degree Program: <a href="https://abiturient.tusur.ru/ru/napravleniya-podgotovki/ochnaya-forma-obucheniya/2022-10-03-01-informatsionnaya-bezopasnost-fulltime">"Information Security"</a>]
 - <a href="https://mai.ru/">MAI</a> (Moscow Aviation Institute) [Master's Degree Program: <a href="https://mai.ru/itmai/pvs/">"Design of high-load Internet services"</a>]
 
 
